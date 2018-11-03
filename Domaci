@@ -1,11 +1,11 @@
 #EXTM3U
 
 
-EXTINF:-1,Ex-Yu | Bht Hd
+#EXTINF:-1,Ex-Yu | Bht Hd
 http://formen1.com:8080/live/tahsinak/aktahsin/1913.ts
-EXTINF:-1,Ex-Yu | Bosnatv1
+#EXTINF:-1,Ex-Yu | Bosnatv1
 http://formen1.com:8080/live/tahsinak/aktahsin/1875.ts
-EXTINF:-1,Ex-Yu | Discovery Channel
+#EXTINF:-1,Ex-Yu | Discovery Channel
 http://formen1.com:8080/live/tahsinak/aktahsin/1882.ts
 EXTINF:-1,Ex-Yu | Dm Sat
 http://formen1.com:8080/live/tahsinak/aktahsin/1905.ts
@@ -91,11 +91,11 @@ EXTINF:-1,Ex-Yu | FOX LIFE
 http://formen1.com:8080/live/tahsinak/aktahsin/16842.ts
 EXTINF:-1,Ex-Yu | FOX MOVIES
 http://formen1.com:8080/live/tahsinak/aktahsin/16841.ts
-EXTINF:-1,Ex-Yu | HBO 1
+#EXTINF:-1,Ex-Yu | HBO 1
 http://formen1.com:8080/live/tahsinak/aktahsin/16848.ts
-EXTINF:-1,Ex-Yu | HBO 2
+#EXTINF:-1,Ex-Yu | HBO 2
 http://formen1.com:8080/live/tahsinak/aktahsin/16847.ts
-EXTINF:-1,Ex-Yu | HBO 3
+#EXTINF:-1,Ex-Yu | HBO 3
 http://formen1.com:8080/live/tahsinak/aktahsin/16846.ts
 EXTINF:-1,Ex-Yu | IDJ TV
 http://formen1.com:8080/live/tahsinak/aktahsin/16854.ts
